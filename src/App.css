@@ -1,0 +1,45 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-top: 10px;
+}
+
+input, textarea, button {
+  margin-top: 5px;
+}
+
+div {
+  margin-top: 20px;
+}
+
+.items-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.item {
+  width: 200px;
+  text-align: center;
+}
+
+.thumbnail {
+  width: 100%;
+  height: auto;
+  cursor: pointer;
+}
+
+h2 {
+  font-size: 1.2em;
+  margin-top: 10px;
+  cursor: pointer;
+}
+

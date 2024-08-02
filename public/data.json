@@ -1,0 +1,15 @@
+[
+    {
+      "id": "1",
+      "title": "Sample Video 1",
+      "thumbnailUrl": "https://res.cloudinary.com/YOUR_CLOUD_NAME/image/upload/sample_thumbnail1.jpg",
+      "videoUrl": "https://res.cloudinary.com/YOUR_CLOUD_NAME/video/upload/sample_video1.mp4"
+    },
+    {
+      "id": "2",
+      "title": "Sample Video 2",
+      "thumbnailUrl": "https://res.cloudinary.com/YOUR_CLOUD_NAME/image/upload/sample_thumbnail2.jpg",
+      "videoUrl": "https://res.cloudinary.com/YOUR_CLOUD_NAME/video/upload/sample_video2.mp4"
+    }
+  ]
+  
